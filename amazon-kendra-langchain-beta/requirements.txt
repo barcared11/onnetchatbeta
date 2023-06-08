@@ -1,0 +1,10 @@
+boto3==1.26.144
+langchain==0.0.193
+matplotlib==3.7.1
+openai==0.27.7
+pandas==2.0.1
+pdfminer.six==20191110
+python-dotenv==1.0.0
+streamlit==1.22.0
+textract==1.6.5
+transformers==4.29.2
